@@ -9,4 +9,4 @@ Project is created with:
 Can be launched through the XCode simulator
 
 ## The App
-![Main View](https://github.com/q-morgan/Uni-Mobile-Project/tree/main/images/MainView.jpg)
+![Main View](/images/MainView.png)
