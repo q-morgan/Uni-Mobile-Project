@@ -9,4 +9,4 @@ Project is created with:
 Can be launched through the XCode simulator
 
 ## The App
-![Main View](/images/MainView.png)
+![Main View](/images/MainView.png | width=100)
