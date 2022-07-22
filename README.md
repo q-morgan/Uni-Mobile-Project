@@ -3,7 +3,8 @@ This is a project created for a 3rd year Computer Science module at UWE. During 
 
 ## Technlogies
 Project is created with:
-* Swift 5
+* Swift
+* SwiftUI
 
 ## Launch
 Can be launched through the XCode simulator
