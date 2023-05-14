@@ -21,5 +21,11 @@ To run the app locally, you need to have the following software and tools instal
 
 ## The App
 <img src="/images/MainView.png" width="250">
+* Main Menu *
 
+<img src="/images/GameView.png" width="250">
+* Game Screen * 
+ 
+<img src="/images/ScoreView.png" width="250">
+* Score View *
 
