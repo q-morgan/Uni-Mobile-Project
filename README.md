@@ -20,12 +20,13 @@ To run the app locally, you need to have the following software and tools instal
 * Xcode - The integrated development environment for iOS app development using Swift.
 
 ## The App
+* Main Menu
 <img src="/images/MainView.png" width="250">
-* Main Menu *
 
+* Game Screen
 <img src="/images/GameView.png" width="250">
-* Game Screen * 
  
+ * Score View
 <img src="/images/ScoreView.png" width="250">
-* Score View *
+
 
